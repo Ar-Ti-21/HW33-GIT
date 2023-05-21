@@ -1,0 +1,34 @@
+{
+  "name": "tarasenko_front_end_pro",
+  "version": "1.0.0",
+  "description": "HW33-GIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "All homeworks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ar-Ti-21/HW33-GIT"
+  },
+  "keywords": [
+    "All",
+    "homeworks"
+  ],
+  "author": "Tarasenko Artur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ar-Ti-21/HW33-GIT"
+  },
+  "homepage": "https://github.com/Ar-Ti-21/HW33-GIT#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "airbnb": "^0.0.2",
+    "eslint": "^8.39.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-react": "^7.32.2",
+    "prettier": "^2.8.8"
+  }
+}
